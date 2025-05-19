@@ -42,8 +42,13 @@
     "esbuild-vue": "^1.2.1",
     "fast-deep-equal": "^2.0.1",
     "fast-glob": "^3.2.5",
+<<<<<<< HEAD
     "frappe-charts": "2.0.0-rc22",
     "frappe-datatable": "1.17.16",
+=======
+    "frappe-charts": "^2.0.0-rc26",
+    "frappe-datatable": "1.18.4",
+>>>>>>> cd13a682db (build: bump datatable (#32578))
     "frappe-gantt": "^0.6.0",
     "highlight.js": "^10.4.1",
     "html5-qrcode": "^2.0.11",
