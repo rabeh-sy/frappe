@@ -191,8 +191,11 @@ class UserPermissions:
 				filters={"property": "allow_import", "value": "1"},
 			)
 
+<<<<<<< HEAD
 		frappe.cache().hset("can_import", frappe.session.user, self.can_import)
 
+=======
+>>>>>>> ae78eb5458 (chore: remove old unused cache)
 	def get_defaults(self):
 		import frappe.defaults
 
