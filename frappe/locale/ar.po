@@ -2924,7 +2924,7 @@ msgstr "الصورة الرمزية"
 #: frappe/public/js/frappe/form/controls/password.js:88
 #: frappe/public/js/frappe/ui/group_by/group_by.js:21
 msgid "Average"
-msgstr "معدل"
+msgstr "عادي"
 
 #: frappe/public/js/frappe/ui/group_by/group_by.js:333
 msgid "Average of {0}"
@@ -4762,17 +4762,17 @@ msgstr ""
 #: frappe/public/js/frappe/form/form_tour.js:276
 #: frappe/public/js/frappe/widgets/base_widget.js:159
 msgid "Collapse"
-msgstr "انهيار"
+msgstr "إغلاق"
 
 #: frappe/public/js/frappe/form/controls/code.js:179
 msgctxt "Shrink code field."
 msgid "Collapse"
-msgstr "انهيار"
+msgstr "إغلاق"
 
 #: frappe/public/js/frappe/views/reports/query_report.js:1980
 #: frappe/public/js/frappe/views/treeview.js:110
 msgid "Collapse All"
-msgstr "انهيار جميع"
+msgstr "إغلاق الكل"
 
 #. Label of a Check field in DocType 'DocField'
 #. Label of a Check field in DocType 'Custom Field'
@@ -5080,7 +5080,7 @@ msgstr "أكمال التسجيل"
 #: frappe/public/js/frappe/ui/slides.js:355
 msgctxt "Finish the setup wizard"
 msgid "Complete Setup"
-msgstr ""
+msgstr "استكمال الإعداد"
 
 #. Option for the 'Status' (Select) field in DocType 'Auto Repeat'
 #. Option for the 'Status' (Select) field in DocType 'Prepared Report'
@@ -9268,7 +9268,7 @@ msgstr "تفوق"
 
 #: frappe/public/js/frappe/form/controls/password.js:90
 msgid "Excellent"
-msgstr ""
+msgstr "ممتازة"
 
 #. Label of a Text field in DocType 'Data Import Log'
 #. Label of a Code field in DocType 'RQ Job'
@@ -11734,7 +11734,7 @@ msgstr ""
 
 #: frappe/www/update-password.html:274
 msgid "Hint: Include symbols, numbers and capital letters in the password"
-msgstr "تلميح: تضمين الرموز والأرقام والأحرف الكبيرة في كلمة المرور"
+msgstr "تلميح: أضف الرموز والأرقام والأحرف الكبيرة إلى كلمة المرور لتجعلها أقوى"
 
 #. Label of a Tab Break field in DocType 'Website Settings'
 #: frappe/core/doctype/file/utils.py:29
@@ -12507,7 +12507,7 @@ msgstr "تشمل المسافة البادئة"
 
 #: frappe/public/js/frappe/form/controls/password.js:106
 msgid "Include symbols, numbers and capital letters in the password"
-msgstr "تضمين الرموز والأرقام والأحرف الكبيرة في كلمة المرور"
+msgstr "أضف الرموز والأرقام والأحرف الكبيرة إلى كلمة المرور لتجعلها أقوى"
 
 #. Label of a Section Break field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
@@ -14048,7 +14048,7 @@ msgstr "دعونا تجنب الكلمات المكررة وشخصيات"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:452
 msgid "Let's set up your account"
-msgstr ""
+msgstr "لنقم بإعداد حسابك"
 
 #: frappe/public/js/frappe/widgets/onboarding_widget.js:268
 #: frappe/public/js/frappe/widgets/onboarding_widget.js:309
@@ -19143,16 +19143,16 @@ msgstr ""
 #: frappe/templates/includes/slideshow.html:34
 #: frappe/website/web_template/slideshow/slideshow.html:40
 msgid "Previous"
-msgstr "سابق"
+msgstr "السابق"
 
 #: frappe/public/js/frappe/ui/slides.js:351
 msgctxt "Go to previous slide"
 msgid "Previous"
-msgstr "سابق"
+msgstr "السابق"
 
 #: frappe/public/js/frappe/form/toolbar.js:313
 msgid "Previous Document"
-msgstr ""
+msgstr "الوثيقة السابقة"
 
 #. Label of a Small Text field in DocType 'Transaction Log'
 #: frappe/core/doctype/transaction_log/transaction_log.json
@@ -22296,11 +22296,11 @@ msgstr "تحديد الأعمدة"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:387
 msgid "Select Country"
-msgstr ""
+msgstr "اختر البلد"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:404
 msgid "Select Currency"
-msgstr ""
+msgstr "اختر عملة"
 
 #. Label of a Link field in DocType 'Form Tour'
 #: frappe/desk/doctype/form_tour/form_tour.json
@@ -22390,7 +22390,7 @@ msgstr ""
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:379
 msgid "Select Language"
-msgstr "اختار اللغة"
+msgstr "اختر اللغة"
 
 #. Label of a Select field in DocType 'Form Tour'
 #: frappe/desk/doctype/form_tour/form_tour.json
@@ -22435,7 +22435,7 @@ msgstr "تحديد الأعمدة الجدول ل{0}"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:396
 msgid "Select Time Zone"
-msgstr ""
+msgstr "اختر منطقة زمنية"
 
 #. Label of a Autocomplete field in DocType 'Document Naming Settings'
 #: frappe/core/doctype/document_naming_settings/document_naming_settings.json
@@ -24007,7 +24007,7 @@ msgstr ""
 #: frappe/printing/doctype/print_style/print_style.json
 #: frappe/website/doctype/web_template/web_template.json
 msgid "Standard"
-msgstr "اساسي"
+msgstr "أساسي"
 
 #: frappe/model/delete_doc.py:78
 msgid "Standard DocType can not be deleted."
@@ -24327,7 +24327,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/form/controls/password.js:89
 msgid "Strong"
-msgstr ""
+msgstr "قوية"
 
 #. Label of a Tab Break field in DocType 'Web Page'
 #. Label of a Select field in DocType 'Workflow State'
@@ -28153,7 +28153,7 @@ msgstr ""
 
 #: frappe/public/js/frappe/form/controls/password.js:87
 msgid "Weak"
-msgstr ""
+msgstr "ضعيفة"
 
 #. Linked DocType in DocType's connections
 #. Linked DocType in Module Def's connections
@@ -28500,7 +28500,7 @@ msgstr "أسبوعي طويل"
 
 #: frappe/desk/page/setup_wizard/setup_wizard.js:372
 msgid "Welcome"
-msgstr ""
+msgstr "أهلاً وسهلاً"
 
 #. Label of a Link field in DocType 'System Settings'
 #. Label of a Link field in DocType 'Email Group'
