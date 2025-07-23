@@ -139,6 +139,11 @@
         <path fill="var(--icon-stroke)" fill-rule="evenodd" d="M12 3.5H4.929a.5.5 0 0 0 0 1h5.864l-7.147 7.146a.5.5 0 0 0 .708.708L11.5 5.207v5.864a.5.5 0 1 0 1 0V4.015A.499.499 0 0 0 12 3.5Z" class="Union" clip-rule="evenodd"/>
       </g>
     </symbol>
+    <symbol id="es-line-arrow-up-left" fill="none" viewBox="0 0 16 16">
+      <g class="es-line-arrow-up-left" transform="scale(-1, 1) translate(-16, 0)">
+        <path fill="var(--icon-stroke)" fill-rule="evenodd" d="M12 3.5H4.929a.5.5 0 0 0 0 1h5.864l-7.147 7.146a.5.5 0 0 0 .708.708L11.5 5.207v5.864a.5.5 0 1 0 1 0V4.015A.499.499 0 0 0 12 3.5Z" class="Union" clip-rule="evenodd"/>
+      </g>
+    </symbol>
     <symbol id="es-line-slash" fill="none" viewBox="0 0 16 16">
       <g class="es-line-slash">
         <path fill="var(--icon-stroke)" fill-rule="evenodd" d="M6.923 14.938 10.673 1H9.15L5.4 14.938h1.523Z" class="Union" clip-rule="evenodd"/>
