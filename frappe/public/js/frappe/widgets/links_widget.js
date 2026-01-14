@@ -59,6 +59,10 @@ export default class LinksWidget extends Widget {
 		};
 
 		const get_link_for_item = (item) => {
+			let link_icon = frappe.utils.icon("es-line-arrow-up-right", "xs", "", "", "ml-2");
+			if (frappe.utils.is_rtl(frappe.boot.lang)) {
+				link_icon = frappe.utils.icon("es-line-arrow-up-left", "xs", "", "", "ml-2");
+			}
 			if (is_link_disabled(item)) {
 				return `<span class="link-content ellipsis disabled-link">${item.link_title}</span>
 					<div class="module-link-popover popover fade top in" role="tooltip" style="display: none;">
@@ -81,7 +85,7 @@ export default class LinksWidget extends Widget {
 			return `
 				<span class="link-content ellipsis">
 					<span class="link-text">${item.link_title}</span>
-					${frappe.utils.icon("es-line-arrow-up-right", "xs", "", "", "ml-2")}
+					${link_icon}
 				</span>
 			`;
 		};
